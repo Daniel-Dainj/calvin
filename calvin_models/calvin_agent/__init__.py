@@ -4,7 +4,7 @@
 """
 
 __version__ = "0.0.1"
-__project__ = "Calvin"
+__project__ = "calvin_agent"
 __author__ = "Oier Mees"
 __license__ = "MIT"
 __email__ = "meeso@informatik.uni-freiburg.de"
